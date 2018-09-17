@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name XS)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-other/XS.pretty)(options "")(descr ""))
+  (lib (name p_switch)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-phelps/p_switch.pretty)(options "")(descr ""))
+  (lib (name p_conn)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-phelps/p_conn.pretty)(options "")(descr ""))
+  (lib (name p_panel_holes)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-phelps/p_panel_holes.pretty)(options "")(descr ""))
+  (lib (name p_images)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-phelps/p_images.pretty)(options "")(descr ""))
+  (lib (name p_pot)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-phelps/p_pot.pretty)(options "")(descr ""))
+)
